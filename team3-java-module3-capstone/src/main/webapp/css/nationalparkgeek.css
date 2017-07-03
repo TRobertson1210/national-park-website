@@ -1,0 +1,192 @@
+header img {
+	width: 500px;
+}
+
+body {
+	background-color: #ccc;
+}
+
+
+
+nav li{
+	display: inline-block;
+}
+
+span.quote {
+	font-weight: bold;
+	font-style: oblique;
+}
+
+span.littletext {
+	font-size: 10px;
+	color: #6a696a;
+}
+
+
+img.detailsPic {
+	width: 85vw;
+	height: 45vw;
+	margin: 0 auto;
+	display: block;
+	border-radius: 25px;
+}
+
+div.media {
+	padding: 10px;
+}
+
+p.quote {
+	font-weight: bold;
+	font-style: oblique;
+	color: #3d8700;
+	text-align: center;
+}
+
+p.quoteSource {
+	font-weight: bold;
+	font-style: oblique;
+	color: #3d8700;
+	text-align: center;
+	padding-left: 40%;
+}
+
+p.quote span {
+	font-size: 30px;
+}
+
+div#details h3 {
+	padding-left: 60px;
+}
+
+p.description {
+	padding: 0px 60px 0px 60px;
+}
+
+p.copyright {
+	font-size: 9px;
+	padding-left: 30px;
+}
+
+div#day1 {
+	display: inline-block;
+	padding-right: 30px;
+}
+
+div#day1 div {
+	text-align: center;
+}
+
+div#day2 {
+	display: inline-block;
+	width: 100px;
+	position: relative;
+	top: -115px;
+	padding: 10px;
+}
+
+div#day2 img {
+	width: 90px;	
+	
+	
+}
+
+div#day3 {
+	display: inline-block;
+	width: 100px;
+	position: relative;
+	top: -115px;
+		padding: 10px;
+	
+}
+
+div#day3 img {
+	width: 90px;
+}
+
+div#day4 {
+	display: inline-block;
+	width: 100px;
+	position: relative;
+	top: -115px;
+		padding: 10px;
+	
+}
+
+div#day4 img {
+	width: 90px;
+}
+div#day5 {
+	display: inline-block;
+	width: 100px;
+	position: relative;
+	top: -115px;
+		padding: 10px;
+	
+}
+
+div#day5 img {
+	width: 90px;
+}
+
+div#temperatureChange {
+	position: relative;
+	left: 400px;
+	bottom: 100px;
+}
+
+div.info-box {
+	max-width: 800px;
+}
+
+div a {
+	text-decoration: none;
+}
+
+div.button {
+	position: relative;
+}
+
+div.info-list {
+	position: relative;
+	width: 25vw;
+	left: 50%;
+}
+
+div.advisory {
+	padding-left: 10px;
+}
+
+div#temperatureChange form {
+	display: inline-block;
+	padding: 20px;
+}
+
+nav.navbar div.btn {
+	margin-left: 30px;
+}
+
+div.btn.btn-primary {
+	color: #000;
+}
+
+div.btn.btn-danger {
+	color: #000;
+}
+
+div.formPadding {
+	padding-left: 10px;
+}
+
+span.errorMessage {
+	color: #e90208;
+	font-weight: bold;
+	padding-left: 10px;
+}
+
+div.winnerMessage {
+	font-weight: bold;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	font-size: 22px;
+}
+
